@@ -13,7 +13,7 @@ Display a list of posts from a specific category or tag.
 == Description ==
 
 Posts by Category lets you display a list of posts pulled from a particular category or tag, and optionally
-group them by year, month or first letter of the post title.
+group the posts by year, month or first letter of the post title.
 
 Current features include:
 
